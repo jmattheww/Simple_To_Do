@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple To Do</string>
+    <string name="AddTask">Add a new task</string>
+    <string name="btnAdd_task">Add task</string>
+    <string name="btnDelete_task">Delete task</string>
+    <string name="btnClear_task">Clear task</string>
+</resources>
